@@ -25,9 +25,7 @@ import numpy as np
 A = np.array([[2,1,1],[1,1,1],[1,-1,2]])
 B = np.linalg.inv(A)
 print(B)
-
 ```
-
 
 ## Output:
 ![](.\inverse.png)
