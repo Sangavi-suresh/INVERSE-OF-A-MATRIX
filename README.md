@@ -28,7 +28,7 @@ print(B)
 ```
 
 ## Output:
-![](.\inverse.png)
+![](./inverse)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
